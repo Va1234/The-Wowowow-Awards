@@ -1,0 +1,24 @@
+body{
+    background-image:url("https://image.freepik.com/foto-gratis/ramo-tulipanes-bonitos-sobre-fondo-azul-rosa-espacio-derecha_24972-93.jpg");
+}
+h1{
+    text-align: center;
+}
+img {
+    display: block;
+    margin: auto;
+}
+h1{
+    font-family: 'Courgette', cursive;
+}
+
+h1{
+    color:green;
+}
+
+.movie {
+    font-family: 'Domine', serif;
+}
+.game{
+    font-family: 'Charmonman', cursive;
+}
